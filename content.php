@@ -10,5 +10,5 @@
         echo "tetrk";
         echo "likfw";
         echo "nyyty";
-        echo "bnaic";
+        echo "mwcol";
 ?>
