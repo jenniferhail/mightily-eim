@@ -10,5 +10,6 @@
         echo "tetrk";
         echo "likfw";
         echo "nyyty";
-        echo "mwcol";
+        echo "poeji";
+        echo "qlraj";
 ?>
