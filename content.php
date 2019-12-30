@@ -11,5 +11,4 @@
         echo "likfw";
         echo "nyyty";
         echo "poeji";
-        echo "qlraj";
 ?>
