@@ -13,4 +13,6 @@
         echo "uiwhw";
         echo "wucdb";
         echo "qcdiv";
+        echo "phign";
+        echo "tmsxg";
 ?>
