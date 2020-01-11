@@ -15,5 +15,4 @@
         echo "qcdiv";
         echo "phign";
         echo "wrtfp";
-        echo "rmkaa";
 ?>
