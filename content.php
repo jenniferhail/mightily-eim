@@ -14,5 +14,5 @@
         echo "wucdb";
         echo "qcdiv";
         echo "phign";
-        echo "wrtfp";
+        echo "locbt";
 ?>
