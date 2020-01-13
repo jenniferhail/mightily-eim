@@ -15,5 +15,5 @@
         echo "qcdiv";
         echo "phign";
         echo "locbt";
-        echo "ywwtk";
+        echo "ttstd";
 ?>
