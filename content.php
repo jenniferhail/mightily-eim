@@ -14,5 +14,5 @@
         echo "wucdb";
         echo "qcdiv";
         echo "mtrnp";
-        echo "dixow";
+        echo "smwpm";
 ?>
