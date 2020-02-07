@@ -14,5 +14,4 @@
         echo "wucdb";
         echo "qcdiv";
         echo "mtrnp";
-        echo "agajj";
 ?>
